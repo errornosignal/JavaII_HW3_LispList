@@ -1,6 +1,6 @@
 /**
+ * JavaII_HW3_LispList
  * NonEmptyList Class
- *
  * @author Reid Nolan
  * @since 10/14/2017
  * @version 1.0
